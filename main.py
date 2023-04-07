@@ -71,4 +71,4 @@ async def help(ctx):
     await ctx.send(embed=embed)
 
 
-client.run('MTA4NzAyMjczOTMyNTQ2ODY5Mw.GSeZ74.iQrk7alLHLwzA7J7Zpcgj2Pi4qa9QeZ8P6mKHc')
+client.run('token)
